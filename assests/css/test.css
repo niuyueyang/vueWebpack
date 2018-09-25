@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+}
+body{
+	color: red;
+}
+.img{
+	width: 200px;
+	height: 200px;
+	background-image: url(../images/fj1.jpg);
+}
